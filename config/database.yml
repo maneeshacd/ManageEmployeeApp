@@ -1,0 +1,18 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: ManageEmployeeApp
+  pool: 5
+  username: postgres
+  password: postgreSQL
+  host: localhost
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: ManageEmployeeApp
+  pool: 5
+  username: postgres
+  password: postgreSQL
+  host: localhost
+
